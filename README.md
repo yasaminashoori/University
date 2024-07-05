@@ -4,10 +4,16 @@
  # نکات 
 
 درس های بیشتری هم باقی مونده که حتما اضافه میشه.
-اگه درسی رو نیاز داشتین حتما توی issue بهم بگین. 
+
+اگه درسی رو نیاز داشتین یا نکته و ایده ای بود حتما توی issue بهم بگین. 
+
 می تونید هر نوع collaboration که مربوط به این ریپو میشه انجام بدین.
 
+
+
 <div dir="rtl">
+
+# درس ها
 
 - طراحی الگوریتم دکتر شکری بهار 1400 - [مخزن](https://github.com/yasaminashoori/University/blob/master/Semester4/Algorithm/Algorithm.pdf)
 - مدارهای الکتریکی دکتر نصیری پاییز 1400  - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester5/Electric_Circuits/Docs)
