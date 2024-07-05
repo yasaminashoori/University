@@ -3,17 +3,17 @@
 
 <div dir="rtl">
 
-- طراحی الگوریتم دکتر شکری بهار 1400 - [مخزن](https://github.com/9231058/CE101-C) [مخزن](https://github.com/9231058/reimagined-palm-tree)
-- مدارهای الکتریکی دکتر نصیری پاییز 1400  - [مخزن](https://github.com/9231058/solid-eureka)
-- طراحی سیستم‌های شئ‌گرا دکتر مشکین پاییز 1400 - [مخزن](https://github.com/9231058/OS-Homework)
-- سیگنال‌ها و سیستم‌ها دکتر لفوتی پاییز 1400 - [مخزن](https://github.com/9231058/ASM-Homework)
-- مهندسی نرم افزار دکتر شکری پاییز 1400 - [مخزن](https://github.com/9231058/DA-Homework)
-- سیستم های عامل دکتر مسعودی فر بهار 1401 - [مخزن](https://github.com/9231058/TFA)
-- نظریه زبان‌ و ماشبن‌ استاد شکری بهار 1401 - [مخزن](https://github.com/9231058/ChFTP)
-- زبان تخصصی پاییز 1401 - [مخزن](https://github.com/9231058/DB-Homework) [مخزن](https://github.com/9231058/BilliT)
-- پایگاه داده دکتر مسعودی فر پاییز 1401 - [مخزن](https://github.com/9231058/pl-notes)
-- ریزپردازنده و زبان اسمبلی دکتر عسگری پاییز 1401 - [مخزن](https://github.com/9231058/Homayoun) [مخزن](https://github.com/9231058/MP101)
-- مهندسی نرم افزار دکتر عسگری بهار 1402 - [مخزن](https://github.com/9231058/OS-Homework)
+- طراحی الگوریتم دکتر شکری بهار 1400 - [مخزن](https://github.com/yasaminashoori/University/blob/master/Semester4/Algorithm/Algorithm.pdf)
+- مدارهای الکتریکی دکتر نصیری پاییز 1400  - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester5/Electric_Circuits/Docs)
+- طراحی سیستم‌های شئ‌گرا دکتر مشکین پاییز 1400 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester5/OO_Systems_Design)
+- سیگنال‌ها و سیستم‌ها دکتر لفوتی پاییز 1400 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester5/Signal_and_System)
+- مهندسی نرم افزار دکتر شکری پاییز 1400 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester5/Software_Engineering/Docs)
+- سیستم های عامل دکتر مسعودی فر بهار 1401 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester6/Operating_Systems)
+- نظریه زبان‌ و ماشبن‌ استاد شکری بهار 1401 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester6/Theory_Of_Languages_And_Machines)
+- زبان تخصصی پاییز 1401 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester7/English)
+- پایگاه داده دکتر مسعودی فر پاییز 1401 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester7/Database)
+- ریزپردازنده و زبان اسمبلی دکتر عسگری پاییز 1401 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester7/Microprocessor_And_Assembly_Language) 
+- مهندسی نرم افزار دکتر عسگری بهار 1402 - [مخزن](https://github.com/yasaminashoori/University/tree/master/Semester8/Internet_Engineering)
 
 </div>
   
